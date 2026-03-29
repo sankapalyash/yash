@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-03-29 at 2 57 59 PM](https://github.com/user-attachments/assets/99012104-7c9c-42af-ad3b-2b19c061ec82)![WhatsApp Image 2026-03-29 at 2 57 59 PM](https://github.com/user-attachments/assets/c614367b-f368-4bf5-ac3e-fe279500fae6)[![logo](https://github.com/sankapalyash/yash/blob/main/yash%20.png)
+[![logo](https://github.com/sankapalyash/yash/blob/main/yash%20.png)
 ]()<h1 align="center">Hi 👋, I'm Yash Sankapal</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
