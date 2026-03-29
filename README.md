@@ -1,5 +1,5 @@
 ![logo](https://github.com/vishaldesai22/vishaldesai22/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Vishal Desai</h1>
+<h1 align="center">Hi 👋, I'm Yash Sankapal</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing my skills**
 
-- 📫 How to reach me **vishaldesaivd143@gmail.com**
+- 📫 How to reach me **sankapalyash98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
