@@ -1,9 +1,9 @@
-![logo](https://github.com/vishaldesai22/vishaldesai22/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Yash Sankapal</h1>
+![WhatsApp Image 2026-03-29 at 2 57 59 PM](https://github.com/user-attachments/assets/99012104-7c9c-42af-ad3b-2b19c061ec82)![WhatsApp Image 2026-03-29 at 2 57 59 PM](https://github.com/user-attachments/assets/c614367b-f368-4bf5-ac3e-fe279500fae6)[![logo](https://github.com/sankapalyash/yash/blob/main/yash%20.png)
+]()<h1 align="center">Hi 👋, I'm Yash Sankapal</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldesai22&label=Profile%20views&color=0e75b6&style=flat" alt="vishaldesai22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishaldesai22&label=Profile%20views&color=0e75b6&style=flat" alt="yash" /> </p>
 
 - 🔭 I’m currently working on **developing my skills**
 
@@ -11,12 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vishald64113967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vishald64113967" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal desai" height="30" width="40" /></a>
-<a href="https://fb.com/vishal desai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishal desai" height="30" width="40" /></a>
-<a href="https://instagram.com/its_smart_boy_vishal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_smart_boy_vishal_7" height="30" width="40" /></a>
-<a href="https://youtube.com/@trillionairemindset..4928?si=2Q3njlryImSwJ1Si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trillionaire mindset" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vishaldesaivd134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vishaldesaivd134" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-sankapal-759450377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://www.linkedin.com/in/yash-sankapal-759450377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="yash" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Yash-Sankapal/pfbid0kffjr3Q42Wk8kCahcuw2WxSWmHMqGPDHuny6J9t62mPgSjjXZq3o7efAxtc9Y8wHl/?rdid=40748CLoSwCJzvsB&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Ce6oQHQQB%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/yashsankapal_07?utm_source=qr&igsh=ajJpMzhocDhzaXhm" target="blank"><img align="center" src="" alt="its_smart_boy_vishal_7" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishaldesai22&show_icons=true&locale=en" alt="vishaldesai22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishaldesai22&" alt="vishaldesai22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankapalyash&" alt="yash" /></p>
